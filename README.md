@@ -99,5 +99,4 @@ Azure Training Series includes slide decks and lab guides for six sessions cover
 
 ---
 
-#### 🧑‍🏫 Author: Georges Bou Ghantous
-<sub><i>This repository delivers enterprise-ready Azure training labs and demos developed by Georges Bou Ghantous for SCB, covering cloud identity, secure networking, threat detection, data protection, migration, and governance in real-world banking scenarios.</i></sub>
+<sub><i><span style="color:#B0B0B0">👤 Author: Dr. Georges Bou Ghantous</span></i></sub>
